@@ -24,7 +24,7 @@ footer {
     position:absolute;
     bottom:0;
     left:0;
-    background:#e6005c;
+    background:#dcdcdc;
 }
 
 
@@ -35,12 +35,12 @@ footer {
   text-transform: uppercase;
 }
   .btn-primary {
-background-color:#e6005c;
-border-color:#e6005c;
+background-color:#dcdcdc;
+border-color:#dcdcdc;
   }
   .btn-primary:hover {
-    background-color: #800033;
-    border-color: #800033;
+    background-color: #808080;
+    border-color: #808080;
     border-width: 4px;
   }
 .btn-xl{
